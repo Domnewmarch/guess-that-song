@@ -223,11 +223,11 @@ export default function Home() {
             width={400}
             isPaused={animationPaused}
           />
-          <img
+          {/* <img
             className="absolute rounded-full inset-0"
             src="/img/cat-vibe.gif"
             alt=""
-          />
+          /> */}
         </div>
       </div>
       <div className="flex items-center justify-center relative">
