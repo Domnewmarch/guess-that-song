@@ -31,7 +31,7 @@ export default function Home() {
   const [showAnswer, setShowAnswer] = useState(false);
   const [showCreateModal, setShowCreateModal] = useState(false);
 
-  const [numberOfSongs, setNumberOfSongs] = useState(limit ?? 20);
+  const [numberOfSongs, setNumberOfSongs] = useState(limit ?? 15);
 
   const [loading, setLoading] = useState(true);
 
@@ -333,7 +333,7 @@ export default function Home() {
         openModal={!gameInProgress}
         closeModal={() => setGameInProgress(true)}
       >
-        <p>Press the letter or number that matches the name of the song</p>
+        <p>Press the letter or number that matches the name of the song. The Quiz is out of 15!</p>
         &nbsp;
         <button
           className="mt-5 bg-blue-700 px-5 py-3 rounded-full text-white mx-auto block"
