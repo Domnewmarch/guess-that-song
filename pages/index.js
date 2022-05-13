@@ -411,14 +411,7 @@ export default function Home() {
       >
         <div className="fixed h-screen w-screen z-100 bg-black inset-0 flex items-center justify-center">
           <div className="text-center relative">
-            <div className="h-[400px] w-[400px] relative">
-              <Lottie options={defaultOptions} height={400} width={400} />
-              <img
-                className="absolute rounded-full inset-0 block"
-                src="/img/cat-vibe.gif"
-                alt=""
-              />
-            </div>
+            
             <p className="text-5xl">Loading....</p>
             <p className="my-2">Or no playlist data...😅</p>
             <p className="my-2">
