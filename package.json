@@ -1,5 +1,5 @@
 {
-  "name": "mixed-up-hackday",
+  "name": "guess-that-song",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.6.1",
+    "@heroicons/react": "^1.0.6",
     "axios": "^0.27.2",
     "dotenv": "^16.0.1",
     "js-confetti": "^0.10.2",
