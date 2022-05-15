@@ -30,7 +30,7 @@ export default function Home() {
   const [showAnswer, setShowAnswer] = useState(false)
   const [showCreateModal, setShowCreateModal] = useState(false)
 
-  const [numberOfSongs, setNumberOfSongs] = useState(limit ?? 1)
+  const [numberOfSongs, setNumberOfSongs] = useState(limit ?? 15)
 
   const [loading, setLoading] = useState(true)
 
