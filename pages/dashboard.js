@@ -238,7 +238,7 @@ export default function Example() {
                       <img className="hidden h-16 w-16 rounded-full sm:block" src="/img/profile.png" alt="" />
                       <div>
                         <div className="flex items-center">
-                          <img className="h-16 w-16 rounded-full sm:hidden" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.6&w=256&h=256&q=80" alt="" />
+                          <img className="h-16 w-16 rounded-full sm:hidden" src="/img/profile.png" alt="" />
                           <h1 className="ml-3 text-2xl font-bold leading-7 text-gray-900 sm:leading-9 sm:truncate">Hello, Dom Newmarch!</h1>
                         </div>
                         <dl className="mt-6 flex flex-col sm:ml-3 sm:mt-1 sm:flex-row sm:flex-wrap">
