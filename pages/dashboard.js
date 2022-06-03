@@ -24,7 +24,8 @@ const cards = [
   { name: 'New and Old', href: 'https://guess-that-song.vercel.app/?id=1g5dGdKRo7qMheTljqJgK3', icon: MusicNoteIcon, amount: 'A mix of new and old tunes to play with the family' },
   { name: 'Spain', href: 'https://guess-that-song.vercel.app/?id=3O5UlpLYdIHF58rCw8gZ6R', icon: MusicNoteIcon, amount: 'The ultimate holiday playlist' },
   { name: 'Boy bands', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX36peNnHGI7e', icon: MusicNoteIcon, amount: 'The best of boy bands from the years ' },
-  { name: 'Bruce springsteen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1E4yDwsD69edUU', icon: MusicNoteIcon, amount: 'Can you be as successful as this girl band? ' }    
+  { name: 'Bruce springsteen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1E4yDwsD69edUU', icon: MusicNoteIcon, amount: 'Heres brucey ' }    
+  { name: 'Queen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DZ06evO0ENBD2', icon: MusicNoteIcon, amount: 'Queen ' }    
   // More items...
 ]
 // recently activity
