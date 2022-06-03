@@ -25,7 +25,7 @@ const cards = [
   { name: 'Spain', href: 'https://guess-that-song.vercel.app/?id=3O5UlpLYdIHF58rCw8gZ6R', icon: MusicNoteIcon, amount: 'The ultimate holiday playlist' },
   { name: 'Boy bands', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX36peNnHGI7e', icon: MusicNoteIcon, amount: 'The best of boy bands from the years ' },
   { name: 'Little Mix', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX36peNnHGI7e', icon: MusicNoteIcon, amount: 'Can you be as successful as this girl band? ' }    
-  { name: 'Bruce Springsteen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1E4yDwsD69edUU', icon: MusicNoteIcon, amount: 'Brucey Boy' }    
+  { name: 'Bruce Springsteen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1E4yDwsD69edUU', icon: MusicNoteIcon, amount: 'Can you be as successful as this girl band? ' }    
   // More items...
 ]
 // recently activity
