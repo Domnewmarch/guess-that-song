@@ -17,15 +17,14 @@ const secondaryNavigation = [
 ]
 const cards = [
   { name: 'Cheesy Hits', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX7pykHKVxv6o', icon: MusicNoteIcon, amount: 'Test your cheesy hits knowledge' },
-  { name: '80s Quiz  ', href: 'https://guess-that-song.vercel.app/37i9dQZF1DX4UtSsGT1Sbe', icon: MusicNoteIcon, amount: 'The 80s quiz' },
+  { name: 'Cheesy Hits', href: 'https://guess-that-song.vercel.app/37i9dQZF1DX4UtSsGT1Sbe', icon: MusicNoteIcon, amount: 'The' },
   { name: 'Born in the 00s', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX9OB4XLtWNko', icon: MusicNoteIcon, amount: '00s top hits, how many do you know?' },
   { name: 'One Direction', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX6p4TJxzMRDe', icon: MusicNoteIcon, amount: 'Are you the ultimate 1D fan?' },
   { name: 'Westlife', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DZ06evO3wM6bu', icon: MusicNoteIcon, amount: 'Can you name all of the gratest hits?' },
-  { name: 'New and Olxd', href: 'https://guess-that-song.vercel.app/?id=1g5dGdKRo7qMheTljqJgK3', icon: MusicNoteIcon, amount: 'A mix of new and old tunes to play with the family' },
+  { name: 'New and Old', href: 'https://guess-that-song.vercel.app/?id=1g5dGdKRo7qMheTljqJgK3', icon: MusicNoteIcon, amount: 'A mix of new and old tunes to play with the family' },
   { name: 'Spain', href: 'https://guess-that-song.vercel.app/?id=3O5UlpLYdIHF58rCw8gZ6R', icon: MusicNoteIcon, amount: 'The ultimate holiday playlist' },
   { name: 'Boy bands', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX36peNnHGI7e', icon: MusicNoteIcon, amount: 'The best of boy bands from the years ' },
-  { name: 'Little Mix', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1DX36peNnHGI7e', icon: MusicNoteIcon, amount: 'Can you be as successful as this girl band? ' }    
-  { name: 'Bruce Springsteen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1E4yDwsD69edUU', icon: MusicNoteIcon, amount: 'Can you be as successful as this girl band? ' }    
+  { name: 'Bruce springsteen', href: 'https://guess-that-song.vercel.app/?id=37i9dQZF1E4yDwsD69edUU', icon: MusicNoteIcon, amount: 'Can you be as successful as this girl band? ' }    
   // More items...
 ]
 // recently activity
